@@ -1,7 +1,7 @@
 # Mesh-Extrusion
 Snaptrude Assignment
 
-Steps to run the project in your local machine:-
+# Steps to run the project in your local machine:-
 1. Git clone this repository.
 2. Open in An IDE.
 3. In the Terminal run following commands:
